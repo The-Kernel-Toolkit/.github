@@ -5,8 +5,10 @@
 **Focus Areas:** Arch Linux tuning, Clang-based kernel builds, LLVM optimization  
 **Fun Fact:** Can spot an unstable RAM timing from across the room  
 
-## Matt
-**Focus Area:** Kernel performance tuning, compile opitmization, gueina pig, bug hunting.  
+## Matt (syn-ack)
+**Role** Dev<br>
+**Focus Area:** Kernel performance tuning, compile opitmization, gueina pig, bug hunting.
+Always looking for a good performacne patch.
 
 ## Ricardo/Rico (Pixxelluxx)
 **Role:** Dev  
