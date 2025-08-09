@@ -4,3 +4,6 @@
 **Role:** Lead Kernel Engineer
 **Focus Areas:** Arch Linux tuning, Clang-based kernel builds, LLVM optimization
 **Fun Fact:** Can spot an unstable RAM timing from across the room
+
+## Matt
+**Focus Area:** Kernel performance tuning, compile opitmization, gueina pig, bug hunting.
