@@ -8,7 +8,7 @@
 ## Matt
 **Focus Area:** Kernel performance tuning, compile opitmization, gueina pig, bug hunting.
 
-## Pixxelluxx
+## Ricardo/Rico (Pixxelluxx)
 **Role:** Dev
 **Focus Areas:** Gentoo
 **Fun Fact:** Good at finding solutions to problems most of the time
