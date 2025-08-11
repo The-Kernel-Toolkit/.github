@@ -7,8 +7,8 @@
 
 ## Matt (syn-ack)
 **Role:** Dev<br>
-**Focus Area:** Kernel performance tuning, compile opitmization, gueina pig, bug hunting.
-Always looking for a good performacne patch.
+**Focus Area:** Kernel performance tuning, compile opitmization, Framework Development.
+Always looking for a good patch
 
 ## Ricardo/Rico (Pixxelluxx)
 **Role:** Dev  
